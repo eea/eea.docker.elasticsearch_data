@@ -1,4 +1,4 @@
-# eea.docker.postgres_data
+# eea.docker.elasticsearch_data
 
 usage: 
 
